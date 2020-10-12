@@ -55,7 +55,18 @@ On linux:
 
 ```
 cd EndToEndTest
-npm install
+sudo npm install -g protractor
+
+sudo npm install angularjs
+sudo npm install jasmine
+sudo npm install jasmine-spec-reporter --save-dev
+sudo npm install jasmine-reporters
+sudo npm install protractor-html-reporter
+sudo npm install mssql
+sudo npm install log4js
+sudo npm install log4js-protractor-appender
+sudo npm install request
+sudo webdriver-manager update
 
 sudo ln -s /opt/tata-communications/EndToEndTest/node_modules/protractor/bin/protractor /bin/protractor
 sudo ln -s /opt/tata-communications/EndToEndTest/node_modules/webdriver-manager/bin/webdriver-manager /bin/webdriver-manager
