@@ -85,7 +85,6 @@ webdriver-manager update
 
 NOTE: in case chrome or firefox and web-driver is not started have in your config file parameter: directConnect: true => not recommended on Windows
 To run all tests at once:
-This will create a product from the beginning ( offer proposition, proposition, publishing, businessUnit, product, activate, deactivate etc )
 
 ```
 protractor configs/conf_test.js
