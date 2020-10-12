@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="4" time="16.376">
+ <testsuite name="Testing - Thuisbezorgd &gt; Place order" timestamp="2020-10-12T14:20:50" hostname="localhost" time="16.376" errors="0" tests="4" skipped="0" disabled="0" failures="0">
+  <testcase classname="Testing - Thuisbezorgd &gt; Place order" name="Open Dashboard Page" time="1.464" />
+  <testcase classname="Testing - Thuisbezorgd &gt; Place order" name="Set Address" time="4.822" />
+  <testcase classname="Testing - Thuisbezorgd &gt; Place order" name="Search And Select Restauratns" time="6.817" />
+  <testcase classname="Testing - Thuisbezorgd &gt; Place order" name="Fill Customer form to order and pay" time="3.271" />
+ </testsuite>
+</testsuites>
