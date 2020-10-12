@@ -14,6 +14,7 @@ exports.config = {
         productData: {
             keyDelay: 100,
             homeAddress: '8888',
+            homeAddressLink: '8888 Alpha',
             NameOfRestaurants: 'Pan Pizza Man',
             ProductAddToCart: 'BurgerDeal EN'
         },
