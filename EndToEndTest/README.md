@@ -1,4 +1,4 @@
-# Management Portal End to End Test
+# End to End Test
 
 End to end test with Protractor ( wrapper around Selenium ) with Jasmine framework
 
