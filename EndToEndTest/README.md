@@ -68,9 +68,6 @@ sudo npm install log4js-protractor-appender
 sudo npm install request
 sudo webdriver-manager update
 
-sudo ln -s /opt/tata-communications/EndToEndTest/node_modules/protractor/bin/protractor /bin/protractor
-sudo ln -s /opt/tata-communications/EndToEndTest/node_modules/webdriver-manager/bin/webdriver-manager /bin/webdriver-manager
-
 webdriver-manager update
 ( or if a specific version is needed: sudo webdriver-manager update --versions.chrome={{version number}} )
 ```
