@@ -1,4 +1,6 @@
-# RestaurantApplicationsTeam End to End Test
+# Protractor with Jasmine framework
+
+Sample Application - RestaurantApplicationsTeam End to End Test
 
 End to end test with Protractor ( wrapper around Selenium ) with Jasmine framework
 
